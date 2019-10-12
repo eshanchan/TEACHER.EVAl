@@ -9,6 +9,8 @@ import java.sql.*;
  *
  * @author george sismar
  */
+
+//TEST 
 public class Dsbm {
     public static String username="";
     public static Boolean isAdmin=false;
