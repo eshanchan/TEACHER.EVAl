@@ -7,7 +7,7 @@ package dsbm;
 import java.sql.*;
 /**
  *
- * @author george sismar
+ * @author Chrissy ma friend
  */
 
 //TEST 
