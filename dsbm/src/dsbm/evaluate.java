@@ -28,7 +28,12 @@ public class evaluate extends javax.swing.JFrame{
     public evaluate() {
         initComponents();
         this.setLocationRelativeTo(null);//center form in the scrn
+        show();
         
+        
+        
+    }
+    public void show(){
         try{
             if(!cnn.conn.isClosed()){
                
@@ -44,7 +49,6 @@ public class evaluate extends javax.swing.JFrame{
         {
             JOptionPane.showMessageDialog(this, e.getMessage());
         }
-        
         
     }
     
