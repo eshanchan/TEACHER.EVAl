@@ -11,6 +11,7 @@ import java.sql.*;
  */
 
 //TEST 
+//para sa netbeans
 public class Dsbm {
     public static String username="";
     public static Boolean isAdmin=false;
